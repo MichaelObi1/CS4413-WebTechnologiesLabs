@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {  
+    font-family: 'Poppins', sans-serif;
+}
+
+title {
+    font-family: 'Cambria';
+    color:bisque;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 50px 10px;
+    font-weight: normal;
+}
+
+#header1 {
+    color: black;
+}
+
+#header3 {
+    color: grey;
+}
