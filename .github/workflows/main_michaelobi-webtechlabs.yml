@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'MichaelObi-WebTechLabs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_371626397743413CA355A286D62C0674 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DA0986D73654B058B5A352059351AE0 }}
           package: .
